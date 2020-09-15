@@ -1,0 +1,12 @@
+/Users/macbook/Desktop/Typing/bin/Debug/netcoreapp3.1/Typing.deps.json
+/Users/macbook/Desktop/Typing/bin/Debug/netcoreapp3.1/Typing.runtimeconfig.json
+/Users/macbook/Desktop/Typing/bin/Debug/netcoreapp3.1/Typing.runtimeconfig.dev.json
+/Users/macbook/Desktop/Typing/bin/Debug/netcoreapp3.1/Typing.dll
+/Users/macbook/Desktop/Typing/bin/Debug/netcoreapp3.1/Typing.pdb
+/Users/macbook/Desktop/Typing/obj/Debug/netcoreapp3.1/Typing.csprojAssemblyReference.cache
+/Users/macbook/Desktop/Typing/obj/Debug/netcoreapp3.1/Typing.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Typing/obj/Debug/netcoreapp3.1/Typing.AssemblyInfo.cs
+/Users/macbook/Desktop/Typing/obj/Debug/netcoreapp3.1/Typing.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Typing/obj/Debug/netcoreapp3.1/Typing.dll
+/Users/macbook/Desktop/Typing/obj/Debug/netcoreapp3.1/Typing.pdb
+/Users/macbook/Desktop/Typing/obj/Debug/netcoreapp3.1/Typing.genruntimeconfig.cache
